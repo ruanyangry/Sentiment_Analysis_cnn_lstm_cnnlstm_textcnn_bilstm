@@ -1,0 +1,2 @@
+# Sentiment_Analysis_cnn_lstm_cnnlstm
+利用CNN,LSTM和CNN_LSTM进行情感分析，
