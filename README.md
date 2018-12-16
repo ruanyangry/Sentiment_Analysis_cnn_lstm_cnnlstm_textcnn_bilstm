@@ -3,4 +3,5 @@
 
     1. keras_sentiment_analysis_v1.py: LSTM算法
     2. keras_sentiment_analysis_v2.py: CNN_LSTM算法
-    3. keras_sentiment_analysis_v3.py: CNN算法
+    3. keras_sentiment_analysis_v3.py: CNN算法  
+    4. keras_sentiment_analysis_v4.py: TextCNN算法
